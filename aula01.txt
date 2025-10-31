@@ -1,2 +1,6 @@
 Texto
+<<<<<<< HEAD
+Aula
+=======
 Segunda alteração
+>>>>>>> master
